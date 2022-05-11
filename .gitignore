@@ -9,3 +9,6 @@ prefix/
 CMakeLists.txt.user
 CMakeUserPresets.json
 project-include-after.cmake
+flake.lock
+CMakeCache.txt
+CMakeFiles/cmake.check_cache
